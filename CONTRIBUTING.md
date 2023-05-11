@@ -1,12 +1,7 @@
-# Contribute to The Interview Project
-
-This monorepo is an open-ended project that candidates of all skill/career levels can build upon to demonstrate their technical knowledge and abilities. Since the project has no specific functional objectives beyond being the foundation for interviews, you can build anything you can dream of!
-
-There's no restriction on languages, frameworks, or tools. However, do limit any required "getting started" steps by being aware of non-automatable dependencies to keep the interview easily accessible to all.
 
 ## Requirements
 
-- [Go 1.18+](https://go.dev/doc/install)
+- [Go 1.20+](https://go.dev/doc/install)
 - [gRPC prerequisites](https://grpc.io/docs/languages/go/quickstart/#prerequisites)
     <details>
     <summary>TL;DR</summary>
