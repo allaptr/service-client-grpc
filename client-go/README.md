@@ -1,6 +1,6 @@
 # Client (Go)
 
-Consume the Interview API.
+Call gRPC service
 
 ## Run
 You can pass a caller 'Name' to the client executable

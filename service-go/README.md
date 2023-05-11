@@ -1,6 +1,6 @@
 # Service (Go)
 
-Serve the Interview API.
+Standup the gRPC service
 
 ## Export enviornment
 
