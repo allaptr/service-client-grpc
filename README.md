@@ -12,6 +12,11 @@ Currently, the project consists of a Go microservice and a corresponding client 
 
 * Unimplemented
 ```
+### Service Information
+[Service Info](service-go/README.md)
+
+### Client Information
+[Client Info](client-go/README.md)
 
 ### Potential next steps
 
